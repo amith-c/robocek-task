@@ -25,7 +25,7 @@ function App() {
     .fromTo(".hero p", { opacity: 0 }, {opacity: 1, duration: 0.5, position: 0.5})
 
     // Explore programs animations
-    gsap.fromTo("#exploreprogram h2, p", { opacity: 0, translateX: -30 }, {opacity: 1, translateX: 0, duration: 0.5, scrollTrigger: "#exploreprogram p"})
+    gsap.fromTo("#exploreprogram h2, #exploreprogram p", { opacity: 0, translateX: -30 }, {opacity: 1, translateX: 0, duration: 0.5, scrollTrigger: "#exploreprogram p"})
     gsap.fromTo("#exploreprogram .card", 
       {opacity: 0, scale: 1.1}, 
       { opacity: 1, scale: 1, duration: 0.8, stagger: 0.1, scrollTrigger: {
@@ -57,7 +57,7 @@ function App() {
           <div className="hero__image-wrapper">
             <img src={heroImage} alt="Robocek" className="hero__image" />
             <div className="hero__overlay">
-              <div className="row mb-4">
+              <div className="row mb-5">
                 <div className="col-md-12 col-lg-6">
                   <h1 className='h1'>Unleash your <span className="gradient-text">inner innovator</span> with Robocek</h1>
                   <a href="#exploreprogram" className='d-none d-lg-block'>

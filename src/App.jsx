@@ -92,7 +92,7 @@ function App() {
                       <img className='card-img' src={heroImage} alt="" />
                       <div className="card-body">
                         <h5 className="card-title">Demo program</h5>
-                        <p className="card-text text-secondary">Harmonious colour themes have built up as the collection has evolved. </p>
+                        <p className="card-text text-secondary">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex ratione facere maiores at voluptas. </p>
                         <button className="btn btn-primary">Apply now!</button>
                       </div>
                     </div>
@@ -102,7 +102,7 @@ function App() {
                       <img className='card-img' src={heroImage} alt="" />
                       <div className="card-body">
                         <h5 className="card-title">Demo program</h5>
-                        <p className="card-text text-secondary">Harmonious colour themes have built up as the collection has evolved. </p>
+                        <p className="card-text text-secondary">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex ratione facere maiores at voluptas.</p>
                         <button className="btn btn-primary">Apply now!</button>
                       </div>
                     </div>
@@ -112,7 +112,7 @@ function App() {
                       <img className='card-img' src={heroImage} alt="" />
                       <div className="card-body">
                         <h5 className="card-title">Demo program</h5>
-                        <p className="card-text text-secondary">Harmonious colour themes have built up as the collection has evolved. </p>
+                        <p className="card-text text-secondary">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex ratione facere maiores at voluptas.</p>
                         <button className="btn btn-primary">Apply now!</button>
                       </div>
                     </div>
@@ -122,7 +122,7 @@ function App() {
                       <img className='card-img' src={heroImage} alt="" />
                       <div className="card-body">
                         <h5 className="card-title">Demo program</h5>
-                        <p className="card-text text-secondary">Harmonious colour themes have built up as the collection has evolved. </p>
+                        <p className="card-text text-secondary">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex ratione facere maiores at voluptas.</p>
                         <button className="btn btn-primary">Apply now!</button>
                       </div>
                     </div>
